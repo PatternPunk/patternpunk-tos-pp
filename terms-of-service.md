@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Effective Date:** [Insert Date]  
-**Last Updated:** [Insert Date]
+**Effective Date:** 23/11/2024  
+**Last Updated:** 23/11/2024
 
 Welcome to PatternPunk! By using our Telegram bot and services, you agree to comply with the following Terms of Service. If you do not agree, you may not use our services.
 
